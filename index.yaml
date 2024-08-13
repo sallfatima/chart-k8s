@@ -3,7 +3,17 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-13T09:12:13.739583757Z"
+    created: "2024-08-13T09:16:04.49075688Z"
+    description: A Helm chart for Kubernetes
+    digest: 2a8979784131f15ef357262a559161722ab89ee753d637c168c2efdee3031be3
+    name: datascientest
+    type: application
+    urls:
+    - https://sallfatima.github.io/chart-k8s/datascientest-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-13T09:16:04.491235837Z"
     description: A Helm chart for Kubernetes
     digest: 07340f85ce3f9661378167d19057563ddb4589b8ad54229bd1f3da5560df7c4a
     name: datascientest
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://sallfatima.github.io/chart-k8s/datascientest/datascientest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-13T09:12:13.737879105Z"
+generated: "2024-08-13T09:16:04.490137142Z"
